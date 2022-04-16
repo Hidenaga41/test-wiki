@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://sezakilab.github.io',
+  url: 'https://Hidenaga41.github.io',
   baseUrl: '/test-wiki/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'sezakilab', // Usually your GitHub org/user name.
+  organizationName: 'Hidenaga41', // Usually your GitHub org/user name.
   projectName: 'test-wiki', // Usually your repo name.
 
   presets: [
