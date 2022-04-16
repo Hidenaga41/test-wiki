@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[572],{2478:function(e){e.exports=JSON.parse('{"allTagsPath":"/test-wiki/blog/tags","name":"hello","count":2,"permalink":"/test-wiki/blog/tags/hello"}')}}]);
